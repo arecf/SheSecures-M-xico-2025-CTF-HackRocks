@@ -1,0 +1,14 @@
+En este laboratorio trabajé con una **API protegida por autenticación**, simulando un escenario real de exposición de datos en la nube.
+
+## 🔎 Lo que hice
+- Analicé el código fuente y la estructura de los endpoints `/api/v2/`.  
+- Enumeré las tablas disponibles y extraje datos de usuarios.  
+- Encontré credenciales válidas y obtuve un token JWT administrativo.  
+- Accedí a endpoints restringidos y validé su respuesta.
+
+## 🎯 Resultado
+Accedí de manera controlada a información sensible y descubrí vulnerabilidades lógicas en la API.
+
+## 💡 Aprendizaje
+- Funcionamiento de APIs REST autenticadas.  
+- Gestión de sesiones y tokens JWT.
