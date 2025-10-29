@@ -1,0 +1,14 @@
+Este laboratorio se basó en **ingeniería inversa**.  
+El objetivo fue analizar un fragmento de bytecode que transformaba texto en una secuencia numérica y revertir el proceso.
+
+## 🔎 Lo que hice
+- Analicé cada instrucción del bytecode y su relación con los datos.  
+- Traduje la lógica a pseudocódigo legible.  
+- Implementé la operación inversa y reconstruí el mensaje oculto.
+
+## 🎯 Resultado
+Logré descifrar completamente el texto original, aplicando razonamiento lógico y análisis estructural.
+
+## 💡 Aprendizaje
+- A razonar sobre estructuras de bajo nivel.  
+- A interpretar la lógica de transformación de datos en código ofuscado.
