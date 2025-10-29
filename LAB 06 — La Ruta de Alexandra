@@ -1,0 +1,14 @@
+Este último laboratorio se centró en la **investigación digital y el análisis forense** (OSINT).  
+El reto simulaba la búsqueda de rastros digitales y la recuperación de evidencia oculta.
+
+## 🔎 Lo que hice
+- Analicé archivos y metadatos usando herramientas como `exiftool` y `strings`.  
+- Revisé encabezados y estructuras internas para localizar fragmentos ocultos.  
+- Rastreé vínculos entre los archivos y su autoría digital.
+
+## 🎯 Resultado
+Recuperé datos ocultos y reconstruí parte de la historia detrás de los archivos.
+
+## 💡 Aprendizaje
+- Uso práctico de herramientas OSINT y forenses.  
+- Metodología de análisis y recuperación de evidencia digital.
