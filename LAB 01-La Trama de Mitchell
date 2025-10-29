@@ -1,14 +1,16 @@
-## Resumen 
-En este laboratorio trabajé sobre un esquema de cifrado sencillo. Mi objetivo fue entender cómo se generaban las claves y cómo afectaban al texto cifrado.
+# LAB 01 — La Trama Mitchell
 
-## Lo que hice
-- Leí el código y detecté la estructura del cifrado.
-- Reproduje mentalmente (y con pequeños scripts) el proceso de encriptación.
-- Probé varias combinaciones de claves y comprobé el resultado.
+Este laboratorio me introdujo en los fundamentos de la **criptografía aplicada**.  
+Analicé un sistema de cifrado básico para comprender cómo se generaban las claves y cómo se podía revertir el proceso.
 
-## Resultado
-Reconstruí la lógica del cifrado y validé varias hipótesis sobre la generación de la clave. El reto fortaleció mi capacidad para analizar rápidamente cómo una pieza de software transforma información.
+## 🔎 Lo que hice
+- Inspeccioné el código del algoritmo y su estructura de cifrado.  
+- Apliqué razonamiento lógico para identificar patrones en las claves.  
+- Realicé pruebas controladas para validar la integridad del descifrado.
 
-## Qué aprendí
-- A analizar esquemas de cifrado desde la estructura antes que desde la fuerza bruta.
-- A documentar pruebas y resultados para justificar decisiones de ataque/defensa.
+## 🎯 Resultado
+Logré reconstruir el mensaje cifrado y entender la mecánica detrás del cifrado simétrico.
+
+## 💡 Aprendizaje
+- Comprensión práctica del cifrado por sustitución.  
+- Importancia de documentar cada paso del proceso de análisis.
