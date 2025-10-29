@@ -1,0 +1,14 @@
+## Resumen 
+Este laboratorio se enfocó en la exposición de datos en un entorno tipo nube. Mi tarea principal fue localizar rutas y archivos accesibles que no deberían ser públicos.
+
+## Lo que hice
+- Exploré el sitio web y probé rutas comunes y endpoints.
+- Interactué con la API y revisé las respuestas JSON para encontrar artefactos interesantes.
+- Extraje y catalogué los archivos y campos relevantes sin causar daño.
+
+## Resultado
+Identifiqué archivos y datos accesibles mediante peticiones bien formadas. Con esta información entendí cómo se gestiona la visibilidad y los permisos en servicios de almacenamiento.
+
+## Qué aprendí
+- Buenas prácticas de reconocimiento en entornos cloud.
+- Importancia de revisar permisos y la superficie de datos expuestos.
