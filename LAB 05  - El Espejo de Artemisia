@@ -1,0 +1,13 @@
+El reto consistió en aplicar **técnicas de fuerza bruta y validación lógica** para acceder a un sistema protegido.
+
+## 🔎 Lo que hice
+- Analicé la lógica del login y la respuesta del servidor.  
+- Identifiqué los parámetros vulnerables y las condiciones de validación.  
+- Probé credenciales específicas hasta obtener acceso exitoso.
+
+## 🎯 Resultado
+Accedí correctamente al sistema y confirmé el comportamiento de validación de usuarios.
+
+## 💡 Aprendizaje
+- Métodos de autenticación y respuesta del lado del servidor.  
+- Estrategias de prueba para detección de validaciones débiles.
