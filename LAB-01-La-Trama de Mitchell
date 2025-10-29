@@ -1,0 +1,14 @@
+## Resumen 
+En este laboratorio trabajé sobre un esquema de cifrado sencillo. Mi objetivo fue entender cómo se generaban las claves y cómo afectaban al texto cifrado.
+
+## Lo que hice
+- Leí el código y detecté la estructura del cifrado.
+- Reproduje mentalmente (y con pequeños scripts) el proceso de encriptación.
+- Probé varias combinaciones de claves y comprobé el resultado.
+
+## Resultado
+Reconstruí la lógica del cifrado y validé varias hipótesis sobre la generación de la clave. El reto fortaleció mi capacidad para analizar rápidamente cómo una pieza de software transforma información.
+
+## Qué aprendí
+- A analizar esquemas de cifrado desde la estructura antes que desde la fuerza bruta.
+- A documentar pruebas y resultados para justificar decisiones de ataque/defensa.
