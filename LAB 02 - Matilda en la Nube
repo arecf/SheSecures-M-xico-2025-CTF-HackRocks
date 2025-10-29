@@ -1,14 +1,16 @@
-## Resumen 
-Este laboratorio se enfocó en la exposición de datos en un entorno tipo nube. Mi tarea principal fue localizar rutas y archivos accesibles que no deberían ser públicos.
+# LAB 02 — Matilda en la Nube
 
-## Lo que hice
-- Exploré el sitio web y probé rutas comunes y endpoints.
-- Interactué con la API y revisé las respuestas JSON para encontrar artefactos interesantes.
-- Extraje y catalogué los archivos y campos relevantes sin causar daño.
+El objetivo fue identificar **archivos y datos expuestos en entornos cloud**.  
+El reto simulaba una mala configuración de almacenamiento que dejaba accesible información sensible.
 
-## Resultado
-Identifiqué archivos y datos accesibles mediante peticiones bien formadas. Con esta información entendí cómo se gestiona la visibilidad y los permisos en servicios de almacenamiento.
+## 🔎 Lo que hice
+- Exploré rutas y endpoints no protegidos.  
+- Analicé peticiones HTTP para identificar respuestas JSON útiles.  
+- Validé accesos a archivos mediante prueba de rutas y permisos.
 
-## Qué aprendí
-- Buenas prácticas de reconocimiento en entornos cloud.
-- Importancia de revisar permisos y la superficie de datos expuestos.
+## 🎯 Resultado
+Encontré archivos accesibles sin autenticación y comprendí cómo se exponen datos en servicios mal configurados.
+
+## 💡 Aprendizaje
+- Técnicas de reconocimiento en entornos cloud.  
+- Evaluación de riesgos derivados de configuraciones inseguras.
